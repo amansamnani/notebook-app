@@ -1,0 +1,55 @@
+.container {
+  width: 300px;
+  display: grid;
+  place-items: center;
+  grid-gap: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  background-color: #FFFCEA;
+}
+
+.form {
+  input {
+    width: 100%;
+    height: 32px;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+  }
+
+  input::placeholder {
+    font-weight: 100;
+    font-size: 1rem;
+  }
+
+  input:nth-child(2) {
+    margin-top: 0.75rem;
+  }
+}
+.messagebox {
+  color: red;
+  width: 100%;
+  ul {
+    list-style: none;
+  }
+}
+.loginbutton {
+  height: 32px;
+  width: 100%;
+  outline: none;
+  border: none;
+  font-weight: bold;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  font-size: 0.85rem;
+  cursor: pointer;
+  background: #000;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.logo {
+  width: 100%;
+  object-fit: contain;
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148.501" height="187.886" viewBox="0 0 148.501 187.886">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9c179"/>
+      <stop offset="1" stop-color="#6d613d"/>
+    </linearGradient>
+  </defs>
+  <g id="logoMainSvg" transform="translate(-8.418 158.786)">
+    <path id="Path_403" data-name="Path 403" d="M156.845,25.728H100.623C49.7,25.728,8.418-14.618,8.418-64.387v-55.658c0-21.4,17.746-38.741,39.638-38.741h69.149c21.892,0,39.64,17.345,39.64,38.741Z" fill="url(#linear-gradient)"/>
+    <path id="Path_404" data-name="Path 404" d="M101.7-152.26c-10.453,0-19.882,3.509-26.565,9.131-6.685-5.622-16.111-9.131-26.565-9.131-20.272,0-36.705,13.171-36.705,29.42v10.331c0,21.175,15.207,40.011,37.846,46.873l25.424,7.708,25.424-7.708c22.639-6.862,37.846-25.7,37.846-46.873V-122.84C138.406-139.089,121.973-152.26,101.7-152.26Z" transform="translate(6.637 10.673)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_405" data-name="Path 405" d="M86.614-119.855a14.369,14.369,0,0,1-14.531,14.2,14.373,14.373,0,0,1-14.536-14.2,14.373,14.373,0,0,1,14.536-14.2A14.369,14.369,0,0,1,86.614-119.855Z" transform="translate(33.537 14.888)" fill="#402401" fill-rule="evenodd"/>
+    <path id="Path_407" data-name="Path 407" d="M58.894-119.855a14.37,14.37,0,0,1-14.533,14.2,14.369,14.369,0,0,1-14.531-14.2,14.369,14.369,0,0,1,14.531-14.2A14.37,14.37,0,0,1,58.894-119.855Z" transform="translate(13.449 14.888)" fill="#402401" fill-rule="evenodd"/>
+    <path id="Path_409" data-name="Path 409" d="M55.709-120.783l-10.145,9.915L55.709-93.932l10.145-16.936Z" transform="translate(26.922 23.99)" fill="#402401"/>
+    <path id="Path_410" data-name="Path 410" d="M107.977-17.84c-17.689,0-32.029-14.014-32.029-31.3v-41.18h32.029Z" transform="translate(48.943 46.941)" fill="#402401" fill-rule="evenodd"/>
+  </g>
+</svg>

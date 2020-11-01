@@ -1,0 +1,42 @@
+.navbar {
+  height: 64px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1rem 5rem;
+  box-sizing: border-box;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #000;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  // background-color: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(1em);
+  -webkit-backdrop-filter: blur(20px);
+}
+.logoutButton {
+  width: auto;
+  height: auto;
+  border-radius: 5px;
+  padding: 7px;
+  box-shadow: 3px 3px 6px 0 #00000029;
+  border: solid 3px #402401;
+  background-color: #402401;
+  cursor: pointer;
+  color: #fff;
+}
+
+.logo,
+.profile {
+  height: 52px;
+  width: 52px;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding: 1rem;
+  }
+}

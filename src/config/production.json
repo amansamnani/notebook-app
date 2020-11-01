@@ -1,0 +1,23 @@
+{
+  "routes": {
+    "root": "/",
+    "home": {
+      "root": "/"
+    },
+    "user": {
+      "root": "/user",
+      "profile": "/me",
+      "auth": "/auth"
+    }
+  },
+  "cred": {
+    "api": {
+      "url": "https://the-notebook-graph.herokuapp.com/graphql"
+    },
+    "apollo": {
+      "link": {
+        "credentials": "include"
+      }
+    }
+  }
+}
